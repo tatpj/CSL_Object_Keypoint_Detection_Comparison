@@ -15,9 +15,8 @@ This repository contains the source code and dataset related to our paper:
   - `train.py`: Training script
   - `weights/`: Model weights
 - `keypoint_detection/`: Keypoint detection module
-  - `preprocess.py`: Data preprocessing scripts
+  - `preprocess.py`:Script for importing images and extracting hand landmark data
   - `train.py`: Training script
-  - `ui.py`: User interface
   - `weights/`: Model weights
 - `test/`: Evaluation and comparison scripts
   - `experiment1.py` to `experiment6.py`: Different experiment configurations
