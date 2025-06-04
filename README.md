@@ -19,9 +19,8 @@ This repository contains the source code and dataset related to our paper:
   - `train.py`: Training script
   - `weights/`: Model weights
 - `test/`: Evaluation and comparison scripts
-  - `Keypoint_Detection_Test.py`: Different experiment configurations
-  - `Object_Detection_Test.py`: Different experiment configurations
-  - Comparison result visualizations
+  - `Keypoint_Detection_Test.py`: Script for testing keypoint detection and gesture recognition
+  - `Object_Detection_Test.py`: Script for testing object detection and gesture recognition
 - `requirements.txt`: Project dependencies
 - `README.md`: This file
 
