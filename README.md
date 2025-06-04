@@ -19,7 +19,8 @@ This repository contains the source code and dataset related to our paper:
   - `train.py`: Training script
   - `weights/`: Model weights
 - `test/`: Evaluation and comparison scripts
-  - `experiment1.py` to `experiment6.py`: Different experiment configurations
+  - `Keypoint_Detection_Test.py`: Different experiment configurations
+  - `Object_Detection_Test.py`: Different experiment configurations
   - Comparison result visualizations
 - `requirements.txt`: Project dependencies
 - `README.md`: This file
