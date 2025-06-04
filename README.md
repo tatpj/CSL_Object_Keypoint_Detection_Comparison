@@ -45,9 +45,15 @@ Due to the large size of the dataset (~4GB), it is hosted externally.
 ## 🚀 Getting Started
 
 ### Requirements
-
+#### Keypoint Detection Requirements
 - Python ≥ 3.11
-- PyTorch ≥ 2.20
+- TensorFlow  ≥ 2.19
+- OpenCV
+- MediaPipe
+
+#### Object Detection Requirements
+- Python ≥ 3.11
+- PyTorch ≥ 2.2
 - OpenCV
 - YOLO11
 
