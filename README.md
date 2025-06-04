@@ -3,7 +3,7 @@
 This repository contains the source code and dataset related to our paper:
 
 **"Comparative Study of Object Detection and Keypoint Detection for Static Chinese Sign Language Recognition"**  
-📄 Presented at [Your Conference Name]
+📄 Presented at ICEICT 2025
 
 ## 📦 Contents
 
