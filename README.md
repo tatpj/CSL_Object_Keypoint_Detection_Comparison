@@ -46,8 +46,8 @@ Due to the large size of the dataset (~4GB), it is hosted externally.
 
 ### Requirements
 
-- Python ≥ 3.8
-- PyTorch ≥ 1.10
+- Python ≥ 3.11
+- PyTorch ≥ 2.20
 - OpenCV
 - YOLO11
 
