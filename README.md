@@ -11,9 +11,8 @@ This repository contains the source code and dataset related to our paper:
   - `object-detection-best.pt`: Best object detection model
   - `keypoint-detection-best.pt`: Best keypoint detection model
 - `object_detection/`: Object detection module
-  - `preprocess.py`: Data preprocessing scripts
+  - `csl.yaml`: Dataset configuration file
   - `train.py`: Training script
-  - `ui.py`: User interface
   - `weights/`: Model weights
 - `keypoint_detection/`: Keypoint detection module
   - `preprocess.py`: Data preprocessing scripts
