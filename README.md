@@ -31,7 +31,6 @@ Due to the large size of the dataset (~4GB), it is hosted externally.
 🔗 **Download Dataset:**
 
 - **Baidu Pan (百度网盘)**: [datasets-Comparative_Study_of_Object_Detection_and_Keypoint_Detection_for_Static_Chinese_Sign_Language_Recognition.zip](https://pan.baidu.com/s/1Q7XzqUVXfNJuVTt823LePw?pwd=na79)  
-  Extraction code: `417s`
 
 - **Google Drive**: [datasets-Comparative_Study_of_Object_Detection_and_Keypoint_Detection_for_Static_Chinese_Sign_Language_Recognition.zip](https://drive.google.com/file/d/1iQALh2GAQarPmaReNwFGdtSeIMWaixv0/view?usp=drive_link)
 
