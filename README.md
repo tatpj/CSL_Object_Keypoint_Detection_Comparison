@@ -18,7 +18,7 @@ This repository contains the source code and dataset related to our paper:
   - `preprocess.py`:Script for importing images and extracting hand landmark data
   - `train.py`: Training script
   - `weights/`: Model weights
-  - `test/`: Evaluation and comparison scripts
+- `test/`: Evaluation and comparison scripts
   - `experiment1.py` to `experiment6.py`: Different experiment configurations
   - Comparison result visualizations
 - `requirements.txt`: Project dependencies
