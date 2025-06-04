@@ -1,0 +1,26 @@
+# Requirements for Comparative Study of Object Detection and Keypoint Detection for Static Chinese Sign Language Recognition
+
+## Core Dependencies
+- python>=3.8.0
+- torch>=1.10.0
+- opencv-python>=4.5.0
+- numpy>=1.19.0
+- pillow>=8.0.0
+
+## Object Detection Dependencies
+- ultralytics>=11.0.0  # For YOLOv11 implementation
+- tqdm>=4.62.0
+
+## Keypoint Detection Dependencies
+- mediapipe>=0.10.21
+- tensorflow>=2.19.0
+
+## Data Processing and Visualization
+- matplotlib>=3.4.0
+- pandas>=1.3.0
+- scikit-learn>=1.0.0  # For additional data processing and analysis utilities
+
+## Utility Libraries
+- scipy>=1.7.0  # For scientific computing tasks
+- Pillow>=8.0.0  # For image processing and manipulation
+
